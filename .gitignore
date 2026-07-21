@@ -3,10 +3,15 @@ __pycache__/
 *.py[cod]
 
 venv/
+.venv/
 env/
+.idea/
+.vscode/
 
 
 *.log
 
 .DS_Store
 Thumbs.db
+
+db.sqlite3
